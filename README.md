@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**firahmhh/firahmhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M name is Firah Mufiidah Hidayat, y'all can call me firah. <br>
+here are some things about myself :
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 I am currently studying at university, majoring in information systems.
+- 🪁 I'm currently learning about cloud computing with GCP.
+- 👯 I'd like to collaborate on a UI/UX design for a website or mobile app.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/firahmhh/) and [Linkedin](https://www.linkedin.com/in/firahmh15)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you all, have a nice day!
+
+ 
+
+
+
+
+
+
